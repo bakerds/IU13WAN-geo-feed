@@ -1,7 +1,7 @@
 # prefix,# ISO 3166 alpha-2 code,# region,# city,# postal code deprecated
 206.82.16.0/20,US,US-PA,Lancaster,
 206.82.16.0/24,US,US-PA,Lancaster,
-206.82.17.80.0/28,US,US-PA,Mount Joy,
+206.82.17.80/28,US,US-PA,Mount Joy,
 206.82.17.112/28,US,US-PA,Mount Joy,
 206.82.17.216/28,US,US-PA,Birdsboro,
 206.82.17.224/27,US,US-PA,Birdsboro,
