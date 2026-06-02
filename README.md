@@ -1,0 +1,1 @@
+You can find the RFC 8805 IP geolocation feed for AS14773 here: [https://geofeed.iu13.net/IU13WAN-geo-feed.csv](https://geofeed.iu13.net/IU13WAN-geo-feed.csv)
